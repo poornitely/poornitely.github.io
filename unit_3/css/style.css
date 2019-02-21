@@ -1,5 +1,14 @@
+body {
+text-align: center;
+background: url(file:///Users/richdaley/Desktop/HomeGarden_banner.jpg);
+background-size: cover;
+color: #fff
+font-family: 'Ubuntu', sans-serif;
+}
 
-
+hr {
+  width: 200px;
+}
 
 .topnav {
   overflow: hidden;
