@@ -32,3 +32,9 @@ hr {
 h1{
 	text-transform: u
 }
+
+footer { 
+  display: block;
+  color: #21D378;
+  
+}
