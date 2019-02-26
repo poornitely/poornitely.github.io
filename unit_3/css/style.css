@@ -35,6 +35,7 @@ h1{
 
 footer { 
   display: block;
-  color: #21D378;
-  
+  background-color: #21D378;
+  color: #fff;
+
 }
