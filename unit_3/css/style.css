@@ -29,8 +29,9 @@ hr {
   color: white;
 }
 
-h1{
-	text-transform: u
+#slogan{
+	font-style: italic;
+
 }
 
 footer { 
