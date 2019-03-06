@@ -2,7 +2,7 @@ body {
 text-align: center;
 background-size: cover;
 color: #000;
-font-family: 'Ubuntu', sans-serif;
+font-family: 'Raleway', sans-serif;
 font-weight: normal;
 }
 
@@ -31,7 +31,8 @@ hr {
 }
 
 #slogan{
-  font-family: 'Metamorphous';
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: medium;
 	font-size: 48px;
 
 }
