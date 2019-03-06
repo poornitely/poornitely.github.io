@@ -2,13 +2,25 @@ body {
 text-align: center;
 background-size: cover;
 color: #000;
-font-family: 'Raleway', sans-serif;
+font-family: 'Lato', sans-serif;
 font-weight: normal;
 }
 
-hr {
-  width: 400px;
+
+h2 {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
 }
+
+
+h3{
+
+font-family: 'Ubuntu', sans-serif;
+font-weight: medium;
+
+}
+
+
 
 .topnav {
   overflow: hidden;
@@ -36,6 +48,8 @@ hr {
 	font-size: 48px;
 
 }
+
+
 
 footer { 
   display: block;
