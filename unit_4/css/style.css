@@ -10,6 +10,7 @@ font-weight: normal;
 h2 {
   font-family: 'Ubuntu', sans-serif;
   font-weight: bold;
+  font-size: 24px;
 }
 
 
@@ -20,6 +21,13 @@ font-weight: medium;
 
 }
 
+
+#slogan{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  font-size: 48px;
+
+}
 
 
 .topnav {
@@ -40,13 +48,6 @@ font-weight: medium;
 .topnav a.active {
   background-color: #21D378;
   color: white;
-}
-
-#slogan{
-	font-family: 'Ubuntu', sans-serif;
-	font-weight: medium;
-	font-size: 48px;
-
 }
 
 
