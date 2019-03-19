@@ -86,7 +86,8 @@ background-color: #fff;
   display: inline-block;
   float:left;
   margin:2em;
-  padding: 2em,5em,2em 5em;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 .dtj {
@@ -101,7 +102,7 @@ background-color: #fff;
   float: right;
   font-size: 25px;
   text-align: left;
-  width: 24px;
+  width: 75px;
 }
 
 .gm {
