@@ -133,7 +133,7 @@ background-color: #fff;
 .gdd {
   background-color: blue;
   padding: 20px 20px;
-  padding-left: 66px;
+  padding-right: 66px;
   float: left;
   font-size: 25px;
   text-align: left;
@@ -144,7 +144,7 @@ background-color: #fff;
 .gdd_text {
   background-color: blue;
   padding: 20px 20px;
-  padding-right: 66px;
+  padding-left: 66px;
   float: right;
   font-size: 25px;
   text-align: left;
