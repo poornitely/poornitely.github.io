@@ -36,6 +36,11 @@ background-color: #fff;
   color: white;
 }
 
+#coverphoto{
+  display: block;
+  margin: 0 auto;
+}
+
 
 div{
 
