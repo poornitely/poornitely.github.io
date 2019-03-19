@@ -41,6 +41,25 @@ background-color: #fff;
   background-size: cover;
 }
 
+.dtj {
+  float: right;
+  text-align: left;
+
+}
+
+.gm {
+  float: left;
+  text-align: right;
+}
+
+.gdd {
+  float: right;
+  text-align: left;
+}
+
+
+
+
 
 div{
 
