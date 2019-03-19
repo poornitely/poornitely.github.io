@@ -57,9 +57,8 @@ background-color: #fff;
 }
 
 #focuses {
-  display:inline-block;
+  display:inline;
   font-size: 25px;
-  float: left;
   text-align: center;
 }
 /*Section 1 How it Works*/
