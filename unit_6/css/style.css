@@ -52,13 +52,15 @@ background-color: #fff;
   padding-right: 5em;
   padding-bottom: 2em;
   padding-top: 2em;
-  font-size: 28px;
+  font-size: 25px;
   text-align: center;
 }
 
 #focuses {
   display:inline-block;
-
+  font-size: 25px;
+  float: left;
+  text-align: center;
 }
 /*Section 1 How it Works*/
 
