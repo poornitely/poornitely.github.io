@@ -94,7 +94,7 @@ background-color: #fff;
   background-color: blue;
   padding: 14px 16px;
   float: left;
-  width: 150px;
+  width: 30%;
 }
 
 .dtj_text {
@@ -103,7 +103,7 @@ background-color: #fff;
   float: right;
   font-size: 25px;
   text-align: left;
-  width: 250px;
+  width: 60%;
 }
 
 .gm {
