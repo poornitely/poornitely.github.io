@@ -61,7 +61,7 @@ background-color: #fff;
   font-size: 25px;
 }
 
-#focus {
+.focus {
   display: inline;
   font-size: 25px;
   text-align: center;
