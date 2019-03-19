@@ -48,7 +48,7 @@ background-color: #fff;
 
 #elevator_pitch {
   margin: 2em;
-  padding: 5em;
+  padding: 5,2,5,2em;
   font-size: 20px;
   text-align: center;
 }
