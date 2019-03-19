@@ -86,6 +86,7 @@ background-color: #fff;
   display: inline-block;
   float:left;
   margin:2em;
+  padding: 2em,5em,2em 5em;
 }
 
 .dtj {
@@ -98,6 +99,8 @@ background-color: #fff;
   background-color: blue;
   padding: 14px 16px;
   float: right;
+  font-size: 25px;
+  text-align: left;
 }
 
 .gm {
@@ -110,6 +113,8 @@ background-color: #fff;
   background-color: blue;
   padding: 14px 16px;
   float: left;
+  font-size: 25px;
+  text-align: left;
 }
 
 .gdd {
@@ -122,8 +127,9 @@ background-color: #fff;
   background-color: blue;
   padding: 14px 16px;
   float: right;
+  font-size: 25px;
+  text-align: left;
 }
-
 
 /*<how it works steps*/
 
