@@ -35,17 +35,30 @@ background-color: #fff;
   color: white;
 }
 
-
-
-#section1 {
-  background-color: #0096d6;
-}
-
 #coverphoto {
   background-color: #21D378;
   margin: 0 auto;
   background-size: cover;
 }
+
+/*Section 1 How it Works*/
+#section1 {
+  background-color: #0096d6;
+}
+
+#elevator_pitch {
+  margin: 2em;
+  font-size: 20px;
+  text-align: center;
+}
+
+#focuses {
+  display:inline-block;
+
+}
+/*Section 1 How it Works*/
+
+
 
 #dtj {
   float: right;
