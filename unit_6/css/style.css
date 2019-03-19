@@ -71,25 +71,15 @@ background-color: #fff;
 /*Section 1 How it Works*/
 
 
+/*<!-- how it works steps -->*/
 
-#dtj {
-  float: right;
-  text-align: left;
-  display: block;
-  
+.hiw_column {
+  display: inline-block;
+  float:left;
+  margins:2em;
 }
 
-#gm {
-  float: left;
-  text-align: right;
-}
-
-#gdd {
-  float: right;
-  text-align: left;
-}
-
-
+/*<!-- how it works steps -->*/
 
 h2 {
   font-family: 'Ubuntu', sans-serif;
