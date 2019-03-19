@@ -68,10 +68,19 @@ background-color: #fff;
   padding: 14px 16px;
 
 }
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
 /*Section 1 How it Works*/
 
 
-/*<!-- how it works steps -->*/
+/*how it works steps*/
 
 .hiw_column {
   display: inline-block;
@@ -79,7 +88,7 @@ background-color: #fff;
   margin:2em;
 }
 
-/*<!-- how it works steps -->*/
+/*<how it works steps*/
 
 h2 {
   font-family: 'Ubuntu', sans-serif;
