@@ -88,6 +88,43 @@ background-color: #fff;
   margin:2em;
 }
 
+.dtj {
+  background-color: blue;
+  padding: 14px 16px;
+  float: left;
+}
+
+.dtj_text{
+  background-color: blue;
+  padding: 14px 16px;
+  float: right;
+}
+
+.gm {
+  background-color: blue;
+  padding: 14px 16px;
+  float: right;
+}
+
+.gm_text{
+  background-color: blue;
+  padding: 14px 16px;
+  float: left;
+}
+
+.gdd {
+  background-color: blue;
+  padding: 14px 16px;
+  float: left;
+}
+
+.gdd_text{
+  background-color: blue;
+  padding: 14px 16px;
+  float: right;
+}
+
+
 /*<how it works steps*/
 
 h2 {
