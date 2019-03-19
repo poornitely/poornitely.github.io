@@ -35,24 +35,24 @@ background-color: #fff;
   color: white;
 }
 
-.coverphoto {
+#coverphoto {
   background-color: #21D378;
   margin: 0 auto;
   background-size: cover;
 }
 
-.dtj {
+#dtj {
   float: right;
   text-align: left;
 
 }
 
-.gm {
+#gm {
   float: left;
   text-align: right;
 }
 
-.gdd {
+#gdd {
   float: right;
   text-align: left;
 }
