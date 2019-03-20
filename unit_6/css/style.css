@@ -162,9 +162,23 @@ background-color: #fff;
 
 #section2 {
   background-color: #0065a4;
-
 }
 
+.img1 {
+float: left;
+}
+
+.p1 {
+float:right;
+}
+
+.img2 {
+float: right;
+}
+
+.p2 {
+  float:left;
+}
 
 
 /*Why Green Drop*/
