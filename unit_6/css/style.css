@@ -173,10 +173,12 @@ background-color: #fff;
 .p1 {
   float:right;
   text-align: center;
-  fontsize: 25px;
+  font-size: 25px;
   width: 46%;
   padding: 2%;
-  width: 720px;
+  display: inline-block;
+  height: 601px;
+
 }
 
 
@@ -188,6 +190,7 @@ background-color: #fff;
   width: 46%;
   padding: 2%;
   display: inline-block;
+  height: 601px;
 }
 
 .img2 {
