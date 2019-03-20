@@ -172,6 +172,8 @@ background-color: #fff;
 
 .p1 {
   float:right;
+  text-align: center;
+  fontsize:25px;
   width: 720px;
   height: 601px;
 }
@@ -184,8 +186,19 @@ background-color: #fff;
 
 .p2 {
   float:left;
+  text-align: center;
+  font-size: 25px;
   width: 720px;
   height: 601px;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
 }
 
 
