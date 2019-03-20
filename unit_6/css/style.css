@@ -181,6 +181,10 @@ font-size: 30px;
 #section2 {
 }
 
+.s1 {
+  background-color: #0096d6;
+}
+
 .img1 {
   float: left;
   width: 50%;
@@ -196,6 +200,9 @@ font-size: 30px;
   height: 601px;
 }
 
+.s2 {
+  background-color: #0065a4;
+}
 
 .p2 {
   float:left;
