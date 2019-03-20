@@ -173,7 +173,10 @@ background-color: #fff;
 .p1 {
   float:right;
   text-align: center;
-  fontsize:25px;
+  fontsize: 25px;
+  padding: 20px 20px;
+  padding-left: 40px;
+  padding-right: 40px;
   width: 720px;
   height: 601px;
 }
@@ -188,18 +191,13 @@ background-color: #fff;
   float:left;
   text-align: center;
   font-size: 25px;
+  padding: 20px 20px;
+  padding-left: 40px;
+  padding-right: 40px;
   width: 720px;
   height: 601px;
 }
 
-.clearfix:after {
-    visibility: hidden;
-    display: block;
-    font-size: 0;
-    content: " ";
-    clear: both;
-    height: 0;
-}
 
 
 /*Why Green Drop*/
