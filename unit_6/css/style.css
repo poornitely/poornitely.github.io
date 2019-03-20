@@ -165,19 +165,27 @@ background-color: #fff;
 }
 
 .img1 {
-float: left;
+  float: left;
+  width: 720px;
+  height: 601px;
 }
 
 .p1 {
-float:right;
+  float:right;
+  width: 720px;
+  height: 601px;
 }
 
 .img2 {
-float: right;
+  float: right;
+  width: 720px;
+  height: 601px;
 }
 
 .p2 {
   float:left;
+  width: 720px;
+  height: 601px;
 }
 
 
