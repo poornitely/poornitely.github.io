@@ -167,7 +167,6 @@ background-color: #fff;
 .img1 {
   float: left;
   width: 720px;
-  height: 601px;
 }
 
 .p1 {
@@ -177,7 +176,6 @@ background-color: #fff;
   padding: 20px 20px;
   padding-right: 40px;
   width: 720px;
-  height: 601px;
 }
 
 
@@ -188,13 +186,11 @@ background-color: #fff;
   padding: 20px 20px;
   padding-left: 20px;
   width: 720px;
-  height: 601px;
 }
 
 .img2 {
   float: right;
   width: 720px;
-  height: 601px;
 }
 
 /*Why Green Drop*/
