@@ -76,6 +76,31 @@ background-color: #fff;
     clear: both;
     height: 0;
 }
+
+
+h2 {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  font-size: 36px;
+}
+
+
+h3{
+
+font-family: 'Ubuntu', sans-serif;
+font-weight: medium;
+font-size: 30px;
+}
+
+
+#slogan{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  font-size: 48px;
+
+}
+
+
 /*Section 1 How it Works*/
 
 
@@ -189,28 +214,19 @@ background-color: #fff;
 }
 
 /*Why Green Drop*/
-h2 {
-  font-family: 'Ubuntu', sans-serif;
-  font-weight: bold;
-  font-size: 36px;
+
+/*Reviews*/
+
+#section3 {
+background-color:#21D378;
+width: 1440px;
+height: 1024px;
+font-size: 25px;
+text text-align: center;
 }
 
 
-h3{
-
-font-family: 'Ubuntu', sans-serif;
-font-weight: medium;
-font-size: 30px;
-}
-
-
-#slogan{
-  font-family: 'Ubuntu', sans-serif;
-  font-weight: bold;
-  font-size: 48px;
-
-}
-
+/*Reviews*/
 
 
 footer { 
