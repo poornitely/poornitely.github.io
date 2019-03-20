@@ -180,11 +180,6 @@ background-color: #fff;
   height: 601px;
 }
 
-.img2 {
-  float: right;
-  width: 720px;
-  height: 601px;
-}
 
 .p2 {
   float:left;
@@ -196,7 +191,11 @@ background-color: #fff;
   height: 601px;
 }
 
-
+.img2 {
+  float: right;
+  width: 720px;
+  height: 601px;
+}
 
 /*Why Green Drop*/
 h2 {
