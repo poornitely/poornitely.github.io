@@ -108,6 +108,7 @@ background-color: #fff;
   text-align: left;
   width: 775px;
   height: 316px;
+  font-size: 25px;
 }
 
 .gm {
@@ -128,6 +129,7 @@ background-color: #fff;
   text-align: left;
   width: 775px;
   height: 316px;
+  font-size: 25px;
 }
 
 .gdd {
@@ -150,14 +152,26 @@ background-color: #fff;
   text-align: left;
   width: 775px;
   height: 316px;
+  font-size: 25px;
 }
 
 /*<how it works steps*/
 
+
+/*Why Green Drop*/
+
+.section2 {
+  background-color: #0065a4;
+
+}
+
+
+
+/*Why Green Drop*/
 h2 {
   font-family: 'Ubuntu', sans-serif;
   font-weight: bold;
-  font-size: 30px;
+  font-size: 36px;
 }
 
 
@@ -165,7 +179,7 @@ h3{
 
 font-family: 'Ubuntu', sans-serif;
 font-weight: medium;
-font-size: 24px;
+font-size: 30px;
 }
 
 
