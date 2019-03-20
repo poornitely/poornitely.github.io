@@ -177,7 +177,8 @@ background-color: #fff;
   padding: 2%;
   display: inline-block;
   height: 601px;
-
+  padding-top: 20px;
+  padding-bottom:20px;
 }
 
 
@@ -190,6 +191,8 @@ background-color: #fff;
   padding: 2%;
   display: inline-block;
   height: 601px;
+  padding-top: 20px;
+  padding-bottom:20px;
 }
 
 .img2 {
